@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lakshyabhasin509
 - 👀 I’m interested in programming,video production,3D.
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning Data Structures and algorithm
 - 📫 How to reach me 
 instagram : lakshyabhasin509
 
