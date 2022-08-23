@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Graphic era hill University, Dehradun and coding stuffs.
+- 🎓 &nbsp; Studying Computer Science and Engineering at Graphic era hill University, Dehradun.
 
 - ☕ &nbsp; Java is my cup of tea.
 
@@ -32,15 +32,12 @@ You can click the Preview link to take a look at your changes.
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-<!--
-
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 
 - 🔧 &nbsp; Git | Github
 
 - 🖥 &nbsp; Illustrator| Photoshop | Premiere pro
 
--->
 
 
 
