@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 &nbsp; Python | Java | C++ | C | MySQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; JavaScript | Nodejs 
 
 - 🛢 &nbsp; MySQL | MongoDB | Firebase
 
