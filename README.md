@@ -10,7 +10,7 @@ Incoming Master's student in Germany and interested in **backend and DevOps engi
 ## 👨‍💻 About Me
 
 - 💻 Backend engineer with experience in **Java, Spring Boot, and REST APIs**
-- 🏦 Currently working as **Software Engineer at NatWest Group**
+- 🏦 Experience working as **Software Engineer at NatWest Group**
 - ⚙️ Interested in **backend infrastructure, DevOps, and distributed systems**
 - 🐧 Comfortable working in **Linux environments**
 - 📦 Learning **Docker, CI/CD workflows, and system design**
