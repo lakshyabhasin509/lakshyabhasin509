@@ -1,91 +1,56 @@
+<h2>Hi, I'm Lakshya Bhasin 👋</h2>
 
-<!---
-lakshyabhasin509/lakshyabhasin509 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Backend Software Engineer with experience building scalable backend systems using **Java and Spring Boot**.  
+Currently exploring **systems design, Linux environments, containerization, and DevOps practices**.
 
-### Hi there 👋<h2> I'm Lakshya </h2>
+Incoming Master's student in Germany and interested in **backend and DevOps engineering opportunities**.
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+---
 
-<h3> 👨🏻•💻 About Me </h3>
+## 👨‍💻 About Me
 
+- 💻 Backend engineer with experience in **Java, Spring Boot, and REST APIs**
+- 🏦 Currently working as **Software Engineer at NatWest Group**
+- ⚙️ Interested in **backend infrastructure, DevOps, and distributed systems**
+- 🐧 Comfortable working in **Linux environments**
+- 📦 Learning **Docker, CI/CD workflows, and system design**
+- 🏃 Fitness enthusiast and regular runner
 
+---
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+## 🛠 Tech Stack
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Graphic era hill University, Dehradun.
+**Languages**
 
-- ☕ &nbsp; Java is my cup of tea.
+Java • Python • JavaScript • C++ • C
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design ,Devops and Backend development.
+**Backend**
 
-- ✍️ &nbsp; Pursuing fitnessas hobbies. Sometime i play table tennis as well.
+Spring Boot • Node.js • REST APIs
 
+**Databases**
 
+MySQL • MongoDB
 
-<h3>🛠 Tech Stack</h3>
+**Tools**
 
+Git • Linux
 
+**Currently Learning**
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+Docker • CI/CD • Cloud Infrastructure
 
-- 🌐 &nbsp; JavaScript | Nodejs 
+---
 
-- 🛢 &nbsp; MySQL | MongoDB | Firebase
+## 📊 GitHub Stats
 
-- 🔧 &nbsp; Git | Github
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyabhasin509&show_icons=true)
 
-- 🖥 &nbsp; Illustrator| Photoshop | Premiere pro
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabhasin509&layout=compact)
 
+---
 
+## 🤝 Connect with Me
 
-
-<h3>🛠 To Learn</h3>
-
-- 🔧 &nbsp; AWS | Docker🐳 | Devops | CI/CD
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyabhasin509&show_icons=true)](https://github.com/lakshyabhasin509)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyabhasin509&show_icons=true)
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<hr>
-
-
-
+LinkedIn: https://www.linkedin.com/in/lakshyabhasin  
+Email: lakshyabhasinwork@gmail.com
